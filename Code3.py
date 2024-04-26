@@ -3,3 +3,5 @@ height = 1.8
 isWinning = True
 # f-String
 print(f"Your score is {score}, your height is {height}, you are winning is {isWinning}")
+
+print("Sotiris is gamatos and your fucking boss!!!!")
